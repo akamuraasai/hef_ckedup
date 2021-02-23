@@ -1,0 +1,22 @@
+{
+  "name": "hef_ckedup",
+  "version": "1.0.0",
+  "description": "It was at this moment that he knew",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akamuraasai/hef_ckedup.git"
+  },
+  "author": "Jonathan Willian <jonathan.willian.tod@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "xfiles": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/akamuraasai/hef_ckedup/issues"
+  },
+  "homepage": "https://github.com/akamuraasai/hef_ckedup#readme"
+}
